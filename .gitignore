@@ -1,13 +1,1 @@
-
-# ignore all compiled classes #
-*.class
-
-
-#  Package files  #
-*.jar
-*.war
-*.ear
-# .iml files "#
-*.iml
-# ignored idea package with files #
-.idea/*
+# Created by .ignore support plugin (hsz.mobi)
